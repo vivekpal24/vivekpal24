@@ -62,4 +62,5 @@ I love working on projects that make a real-world impact, whether it's in the ed
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekpal24&show_icons=true&hide_border=true&count_private=true&theme=default)
 
 ### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekpal24&layout=compact&hide_border=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekpal24&layout=compact&hide_border=true&theme=default&card_width=300)
+
