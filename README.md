@@ -18,33 +18,27 @@ A passionate **Android & Flutter Developer** and **Full-Stack Web Engineer** who
 # 🔥 Top Projects
 
 ### 📘 **NutriKid – AI Nutrition Platform**
-- MERN + AI-powered recommendation system
-- Helps kids find nutritious food with real-time suggestions
-- Improved engagement by 40%
+- MERN + AI-powered recommendation system  
+- Helps kids discover nutritious food with personalized suggestions  
+- Improved engagement by 40%  
 🔗 **GitHub:** https://github.com/vivekpal24/nutrikid
 
 ---
 
 ### 🎓 **MyMedicos – Medical Education App (Live on Play Store)**
-- Java, Firebase, Node.js, React
-- Live CME workshops, quizzes, library, job updates
-- 100+ downloads
+- Java, Firebase, Node.js, React  
+- Live CME workshops, quizzes, library, job updates  
+- 100+ downloads  
 🔗 **GitHub:** https://github.com/vivekpal24/Mymedicos  
 📱 **Play Store:** https://play.google.com/store/apps/details?id=com.medical.my_medicos
 
 ---
 
 ### 💬 **TweetBox – Social Media App**
-- Built with Flutter + Firebase + Dart
-- Instagram-like posting, Google login, group chats
+- Built with Flutter + Firebase  
+- Instagram-like posting, Google login, group chats  
 🔗 **GitHub:** https://github.com/vivekpal24/TweetBox
 
----
-
-### 🤖 **RAG Model for Book Q&A**
-- Built using **Python + FastAPI**
-- Upload a book → retrieves accurate context → gives precise answers
-- More accurate than standard LLM responses
 
 ---
 
@@ -70,6 +64,33 @@ Git • Docker • Postman • Katalon Studio • Linux • VS Code • Android 
 
 ---
 
+## 🏅 Achievements
+
+- 🏆 **CodeChef 6★ (Max Rating: 2234)** – Top **150 in India**  
+- 🔥 **Codeforces Candidate Master (1992 Rating)** – Top **200 in India**  
+- 🌍 **Global Rank 62** in Codeforces Educational Round 180 (Div. 2)  
+- 🏅 **Flipkart Grid 7.0 – National Semi-Finalist**  
+- 💻 Solved **500+ DSA problems** across Codeforces, CodeChef & LeetCode  
+- 📱 Developed **real-world apps**, including MyMedicos (100+ downloads)  
+
+---
+
+## 🏆 Positions of Responsibility
+
+- **Executive Member – Aavesh Club (IIIT Una)**  
+  Organized technical & cultural events, coordinated student participation, and executed campus-wide initiatives.
+
+- **Executive Member – EPMOC (Event Management Club)**  
+  Managed logistics, planning, and execution of institute-level events and student engagement programs.
+
+- **Former Member – FORCE Club (2 Years)**  
+  Participated in workshops, technical sessions, and community-building activities before completing tenure. *Currently not a member.*
+
+- **Former CDC Coordinator – Career Development Cell (1 Year)**  
+  Assisted in placement drives, communication, and student outreach. *Currently not a member.*
+
+---
+
 # 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekpal24&show_icons=true&theme=default&hide_border=true)
 
@@ -81,4 +102,3 @@ Git • Docker • Postman • Katalon Studio • Linux • VS Code • Android 
 # 📫 Reach Me
 📧 **Email:** vivekpal2407@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/vivekpal24
-
