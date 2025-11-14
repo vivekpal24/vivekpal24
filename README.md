@@ -14,6 +14,32 @@ A passionate **Android & Flutter Developer** and **Full-Stack Web Engineer** who
 - Passionate about **AI integrations, RAG models, and real-time applications**
 
 ---
+## 💼 Experience
+
+### 🧑‍💻 Software Development Engineer Intern — **Broverg Corporation**  
+**Apr 2024 – Sept 2024 | Remote**  
+- Increased user productivity by **30%** through improved Android app functionality.  
+- Reduced bugs by **40%** using automated testing with **Katalon Studio**.  
+- Boosted user engagement by **20%** through deep linking between app and website.
+
+---
+
+### 🛩️ R&D Intern — **Sky Trade**  
+**June 2023 – Aug 2023 | Remote**  
+- Improved GPS tracking accuracy by **35%** with real-time coordinate integration.  
+- Enhanced UI responsiveness by **40%** through advanced Flutter optimization.  
+- Improved drone flight stability by **25%** via dynamic analysis.
+
+---
+
+### 📱 Android Development Intern — **Redux Corporation**  
+**Sept 2023 – Dec 2023 | Remote**  
+- Improved backend integration and API communication by **30%** using REST APIs.  
+- Optimized database operations by **25%** on Firebase Realtime Database.  
+- Reduced code complexity by **40%** via **MVP architecture** adoption.  
+- Increased app revenue by **20%** through AdMob integration.
+
+---
 
 # 🔥 Top Projects
 
